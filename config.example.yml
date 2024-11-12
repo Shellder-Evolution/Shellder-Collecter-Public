@@ -1,0 +1,9 @@
+repository:
+  upload_enabled: true                  # Set to true to enable uploads, false to disable
+
+data:
+  folder: "./data"                      # Local folder for data storage
+
+logging:
+  enabled: true                         # Enable or disable logging
+  log_file: "collector.log"             # Name of the log file
